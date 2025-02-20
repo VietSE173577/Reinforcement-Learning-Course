@@ -1,0 +1,15 @@
+Fundamentals of Reinforcement Learning 
+https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
+
+Sample-based Learning Methods	
+https://www.coursera.org/learn/sample-based-learning-methods
+
+Prediction and Control with Function Approximation
+https://www.coursera.org/learn/prediction-control-function-approximation
+
+A Complete Reinforcement Learning System (Capstone)	
+https://www.coursera.org/learn/complete-reinforcement-learning-system
+
+Guided Project
+Create a Tic-Tac-Toe game in Python
+https://www.coursera.org/projects/tic-tac-toe-game-python
