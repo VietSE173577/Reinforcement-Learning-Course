@@ -13,7 +13,7 @@ This repo is used to stored my assignment on the coursera Specialization: Reinfo
 **Course 2 : Sample-Based Learning Methods**
   + Module 1
   + Module 2
-    + [Assignment 1: Blackjack]](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course2-Sample-Based%20Learning%20Methods/module2_assignment1/Blackjack.ipynb)
+    + [Assignment 1: Blackjack](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course2-Sample-Based%20Learning%20Methods/module2_assignment1/Blackjack.ipynb)
   + Module 3
     + [Assignment 2: Policy Evaluation in Cliff Walking Environment](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course2-Sample-Based%20Learning%20Methods/module3_assignment2/assignment.ipynb)
   + Module 4
