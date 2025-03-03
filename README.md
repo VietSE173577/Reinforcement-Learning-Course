@@ -71,4 +71,4 @@ The course covers key concepts such as Markov Decision Processes (MDPs), dynamic
     └── additional_resources/  # Extra materials
 ```
 
-## Special Thanks To My Lecturer, Mr.An Khuong Nguyen for providing me the guide for this repo
+## Special Thanks To My Lecturer, Mr.An Khuong Nguyen for providing me the guide for buidling this repo
