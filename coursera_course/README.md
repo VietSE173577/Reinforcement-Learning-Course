@@ -43,3 +43,6 @@ This repo is used to stored my assignment on the coursera Specialization: Reinfo
     + [Assignment 2 - Semi-gradient TD with a Neural Network](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/module5_assignment2/Course4ProgrammingAssignment2-v4.ipynb)
   + Module 6
     + [Assignment 3 - Function Approximation and Control](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/module6_assignment3/assignment.ipynb)
+
+## [Link To Specialization Certificate](https://coursera.org/share/b321349390a6dea222744c26e9f4bd3b)
+<img src="Coursera VV9OPWLX0XNS.png">
