@@ -27,16 +27,19 @@ This repo is used to stored my assignment on the coursera Specialization: Reinfo
   + Module 2
     + [Assignment 1 - TD with State Aggregation](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course3-Prediction%20and%20Control%20with%20Function%20Approximation/module2_assignment1/assignment.ipynb)
   + Module 3
-    + [ssignment 2 - Semi-gradient TD with a Neural Network](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course3-Prediction%20and%20Control%20with%20Function%20Approximation/module3_assignment2/assignment.ipynb)
+    + [Assignment 2 - Semi-gradient TD with a Neural Network](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course3-Prediction%20and%20Control%20with%20Function%20Approximation/module3_assignment2/assignment.ipynb)
   + Module 4
     + [Assignment 3 - Function Approximation and Control](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course3-Prediction%20and%20Control%20with%20Function%20Approximation/module4_assignment3/assignment.ipynb)
   + Module 5
     + [Assignment 4 - Average Reward Softmax Actor-Critic](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course3-Prediction%20and%20Control%20with%20Function%20Approximation/module5_assignment4/assignment.ipynb)
 
-**Course 4 : A Complete Reinforcement Learning System (Capstone) [updating...]**
+**Course 4 : A Complete Reinforcement Learning System (Capstone)**
   + Module 1
   + Module 2
+    + [Assignment 1 - MoonShot Technologies](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%Complete%Reinforcement%Learning%System%(Capstone)/module2_assignment1/Assignment1-v2.ipynb)
   + Module 3
   + Module 4
   + Module 5
+    + [Assignment 2 - Semi-gradient TD with a Neural Network](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%Complete%Reinforcement%Learning%System%(Capstone)/module5_assignment2/Course4ProgrammingAssignment2-v4.ipynb)
   + Module 6
+    + [Assignment 3 - Function Approximation and Control](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%Complete%Reinforcement%Learning%System%(Capstone)/module6_assignment3/assignment.ipynb)
