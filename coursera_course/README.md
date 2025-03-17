@@ -44,5 +44,9 @@ This repo is used to stored my assignment on the coursera Specialization: Reinfo
   + Module 6
     + [Assignment 3 - Function Approximation and Control](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/Course4-A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/module6_assignment3/assignment.ipynb)
 
+**Guided Project-Create a Tic-Tac-Toe game in Python**
+  + Code
+    + [Tic Tac Toe Game](https://github.com/VietSE173577/Reinforcement-Learning-Course/blob/main/coursera_course/GuidedProject-Create%20a%20Tic-Tac-Toe%20game%20in%20Python/tictactoe.py)
+
 ## [Link To Specialization Certificate](https://coursera.org/share/b321349390a6dea222744c26e9f4bd3b)
 <img src="Coursera VV9OPWLX0XNS.png">
